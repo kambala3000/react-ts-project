@@ -10,6 +10,10 @@
 /build
 
 # misc
+*.css
+/temp
+.vscode
+.directory
 .DS_Store
 .env.local
 .env.development.local
