@@ -11,8 +11,8 @@
 
 # misc
 *.css
-/.vscode/
-/.idea/
+/.vscode
+/.idea
 /temp/
 .directory
 .DS_Store
